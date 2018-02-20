@@ -192,7 +192,7 @@ To take an incremental backup, complete the following steps:
 
     > **Note**
     >
-    >    Ensure that this session with the host remains logged in until after you have finished reading from the network block device.
+    > Ensure that this session with the host remains logged in until after you have finished reading from the network block device.
 
 1.  From your NBD client, complete the following steps to export the changed blocks to the backup location.
     For example, when using the Linux `nbd-client`:
